@@ -13,7 +13,6 @@ description: > # this means to ignore newlines until "baseurl:"
   It is not officially endorsed by Robofont in any way. 
 baseurl: "/robo-know" # the subpath of your site, e.g. /blog
 url: "shannpersand.github.io/robo-know" # the base hostname & protocol for your site
-twitter_username: ampershann
 github_username:  shannpersand
 
 # Build settings
