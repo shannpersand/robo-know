@@ -21,6 +21,7 @@ collections:
   - glossary
   - shortcuts
   - tutorials
+    output: true
   - drawing
 
 # Build settings
