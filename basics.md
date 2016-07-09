@@ -4,4 +4,8 @@ title: Basics
 permalink: /basics/
 ---
 
-# Basics
+Things that are basic will be here:
+
+  * settings
+  * workspace layout
+  * how to download

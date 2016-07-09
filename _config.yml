@@ -18,11 +18,8 @@ github_username:  shannpersand
 
 # Collections
 collections: 
-  - glossary
-  - shortcuts
-  - tutorials
+  tutorials:
     output: true
-  - drawing
 
 # Build settings
 markdown: kramdown

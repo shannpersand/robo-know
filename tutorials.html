@@ -1,0 +1,11 @@
+---
+layout: page
+title: tutorials
+---
+
+{% for tutorial in site.tutorials %}
+  <div class="tutorial">
+    <h2>{{ tutorial.title }}</h2>
+    {{ tutorial.content }}
+  </div>
+{% endfor %}
